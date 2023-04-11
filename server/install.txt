@@ -1,0 +1,2 @@
+npm i express cors cookie-parser dotenv mongodb mongoose
+npm i nodemon --save-dev 
